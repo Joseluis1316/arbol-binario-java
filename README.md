@@ -33,7 +33,7 @@ Main.java: contiene el menú para interactuar con el usuario.
 Seleccione opción: 1
 Ingrese número: 158
 
-![img.png](capturas/img.png)
+![img_1.png](capturas/img_1.png)
 
 Seleccione opción: 1
 Ingrese número: 753
