@@ -72,6 +72,12 @@ No existe
 
 ![img_14.png](capturas/img_14.png)
 
+Seleccione opción: 4
+Saliendo del sistema de árbol binario...
+
+![img_15.png](capturas/img_15.png)
+
+
 ## Evidencia
 ![img_1.png](capturas/img_1.png)
 ![img_4.png](capturas/img_4.png)
@@ -79,6 +85,7 @@ No existe
 ![img_9.png](capturas/img_9.png)
 ![img_11.png](capturas/img_11.png)
 ![img_13.png](capturas/img_13.png)
+![img_15.png](capturas/img_15.png)
 
 
 ## Integrante
