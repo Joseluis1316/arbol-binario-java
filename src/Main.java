@@ -10,7 +10,7 @@ public class Main {
         do {
             System.out.println("\n--- MENÚ ÁRBOL BINARIO ---");
             System.out.println("1. Insertar número");
-            System.out.println("2. Mostrar recorrido en desorden");
+            System.out.println("2. Mostrar recorrido en Inorden");
             System.out.println("3. Buscar número");
             System.out.println("4. Salir");
             System.out.print("Seleccione opción: ");
